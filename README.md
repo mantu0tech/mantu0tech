@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ansari Mantasha
-### Cloud & DevOps Trainer
+### Cloud & DevOps Engineer
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,7 +35,7 @@ I'm a passionate **Cloud & DevOps Trainer** at **IT VEDANT**, helping students d
 
 | 🎓 Students Trained | 🚀 Projects Completed | 📚 B.Tech CGPA |
 |:---:|:---:|:---:|
-| **1,000+** | **10+** | **9.46** |
+| **200+** | **10+** | **9.46** |
 
 ---
 
